@@ -6,6 +6,9 @@ The server must process incoming HTTP requests from clients, receive data from t
  1) git clone https://github.com/Sanzhar017/hl-proxy 
    <br>
  2) cd awesomeProject
+  <br>
+ 3) go run main.go
+
 
  <h5>Request post on url postman http://localhost:8081/proxyl, content-type application json <br>
  JSON:
